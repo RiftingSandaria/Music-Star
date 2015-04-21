@@ -80,6 +80,14 @@
             </objects>
             <point key="canvasLocation" x="318" y="-231"/>
         </scene>
+        <!--AV Player View Controller-->
+        <scene sceneID="Lg9-Yx-INI">
+            <objects>
+                <avPlayerViewController videoGravity="AVLayerVideoGravityResizeAspect" id="sC3-Al-Lox" sceneMemberID="viewController"/>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PJo-zL-aM7" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="794" y="-231"/>
+        </scene>
     </scenes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
