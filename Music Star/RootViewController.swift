@@ -8,7 +8,8 @@
 
 import UIKit
 
-class RootViewController: UIViewController, UIPageViewControllerDelegate {
+class RootViewController: UIViewController, UIPageViewControllerDelegate
+{
 
     var pageViewController: UIPageViewController?
 
